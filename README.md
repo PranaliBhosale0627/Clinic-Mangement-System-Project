@@ -1,7 +1,5 @@
 # Clinic-Mangement-System-Project
 
-# 🏥 Clinic Management System
-
 This is a mini project built using **HTML**, **CSS**, **JavaScript**, **Flask (Python framework)**, and **SQL database**. The system helps manage clinic operations by enabling:
 
 - 🔐 **User Authentication**: Secure login and registration functionality..
